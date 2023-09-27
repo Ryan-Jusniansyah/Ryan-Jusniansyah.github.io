@@ -84,7 +84,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(img/background_valo.jpg);
+    background-image: url(Img/background_valo.jpg);
     background-size: cover;
     background-position: center;
     opacity: 0.8;
